@@ -1,0 +1,5 @@
+   Qu’est-ce que Git / et la difference entre Git et le github ?
+ 
+ Git est un outil de gestion de version ou VCS en anglais (version control system) qui permet de stocker un ensemble de fichiers en conservant la chronologie de toutes les modifications qui ont été effectuées dessus.
+
+ Git et github ce n’est pas la même chose. Git est un outil de gestion de version alors que github est une plateforme en ligne qui permet, entre autre, d’héberger des dépôts Git. Ne vous inquiétez pas si cela vous semble encore un peu obscure, nous allons justement éclaircir tout cela dans l’article qui suit .
